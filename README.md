@@ -2,8 +2,10 @@
 <img src="https://i.imgur.com/t8IcpbN.png" />
 <br>
 
-<p> Krypt is built using Web 3.0 methodologies, Solidity and Metamask </p>
-<br>
-<p> It helps you send crypto on ETH test net </p>
-<br>
-<p> Now everybody can a crypto millionaire, thanks to krypt ! </p>
+## Introduction
+This is a code repository for a practicing Web 3.0 methodologies, Solidity and Metamask with the goal to learn and practice  how to build a real Web 3.0 Application - from start to finish.
+
+In this project i will practice and learn:
+- How to connect a regular React.js application to the blockchain and pair it to your Ethereum wallet using MetaMask.
+- I'll also learn how to write Smart Contracts on the Ethereum network using the #Solidity programming language
+- Essentially, create a full-fledged Web 3.0 application that allows users to send transactions through the blockchain
