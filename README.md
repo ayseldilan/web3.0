@@ -18,8 +18,21 @@ First, clone this repository to a local directory. Enter in the command line:
 $ git clone https://github.com/ayseldilan/web3.0.git
 $ cd client
 ```
+-	Follow instructions for tailwind => https://tailwindcss.com/docs/guides/create-react-app
+-	You need to set up a MetaMask account to send test Ethereum for transaction purposes
+-	Npm install react-icons ethers
 ### Run
 Open the terminal and cd into client to run the code  => npm run dev
 ```
 click on http://localhost:3000
 ```
+## Technologies
+- Blockchain
+- Stability
+- Metamask
+- Tailwind
+
+## Future Updates
+
+- Include CRUD functions
+- Add more pages on to the website
