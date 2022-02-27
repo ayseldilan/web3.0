@@ -1,8 +1,7 @@
 <h1>Krypt - Web 3.0 Blockchain Application</h1>
-<img src="https://i.imgur.com/t8IcpbN.png" />
+
 <br>
 
- 
 ![](https://github.com/ayseldilan/public_resources/blob/main/gifs/web3.0/giphy%20(1).gif)
 
 ## Introduction
