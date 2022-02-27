@@ -2,6 +2,9 @@
 <img src="https://i.imgur.com/t8IcpbN.png" />
 <br>
 
+ 
+![](https://github.com/ayseldilan/public_resources/blob/main/gifs/web3.0/giphy%20(1).gif)
+
 ## Introduction
 This is a code repository for a practicing Web 3.0 methodologies, Solidity and Metamask with the goal to learn and practice  how to build a real Web 3.0 Application - from start to finish.
 
